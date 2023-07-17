@@ -1,4 +1,4 @@
-# rpgdiceroller
+# RPG Dice Roller
 
 Application based on RPG Simple Dice app made for practice only.
 
